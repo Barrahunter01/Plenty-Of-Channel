@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0,AUTO IPTV WORLD
+http://playlist.autoiptv.net/normal.php/.m3u?c=WW
+#EXTINF:0,Freebox TV
+http://mafreebox.freebox.fr/freeboxtv/playlist.m3u
+#EXTINF:0,IPTV THE BEST 1
+http://tv.myddns.ru/upload/1554528949_Spark.xml.m3u
+#EXTINF:0,IPTV THE BEST 2
+http://segaz.my1.ru/xml/iptv/best2.m3u
+#EXTINF:0,IPTV THE BEST 3
+http://segaz.my1.ru/xml/iptv/best.m3u
+#EXTINF:0,IPTV THE BEST 4
+https://pastebin.com/raw/jE1uzH8y/.m3u
+#EXTINF:0,IPTV THE BEST 5
+https://pastebin.com/raw/r4bbLpZ7/.m3u
+#EXTINF:0,IPTV SHQIP 1
+http://zee18.com/wondersports/IPTV/playlist/tvshqip.php#.m3u
+#EXTINF:0,IPTV SHQIP 2
+http://vprxy.com/iptvtvshqip/.m3u
+#EXTINF:0,DAILY IPTV 1
+https://www.dropbox.com/s/u8hbkqeo6uis8a3/server1.m3u?dl=1#.m3u
+#EXTINF:0,DAILY IPTV 2
+http://www.dropbox.com/s/ojvf4arqupv81dn/server2.m3u?dl=1#.m3u
+#EXTINF:0,DAILY IPTV SPORT 1
+https://www.dropbox.com/s/ljg14k91c51j5is/SPORT.m3u?dl=1#.m3u
+#EXTINF:0,DAILY IPTV SPORT 2
+http://www.dropbox.com/s/ljg14k91c51j5is/SPORT.m3u?dl=1#.m3u
+#EXTINF:0,IPTV BEIN SPORT 1
+http://vprxy.com/unblocked/.m3u
+#EXTINF:0,IPTV BEIN SPORT C247
+http://vprxy.com/c247/.m3u
+#EXTINF:0,IPTV BEIN SPORT 2
+http://54.36.61.6:8000/get.php?username=BeinSports&password=BeInSpOrTS&type=m3u
+#EXTINF:0,IPTV BEIN SPORT
+http://freetvip.com/listm3u/BEIN_SPORT.m3u
+#EXTINF:0,AUTO IPTV MOVIES
+http://playlist.autoiptv.net/movie.php/.m3u
+#EXTINF:0,AUTO IPTV UK
+http://playlist.autoiptv.net/normal.php/.m3u?c=UK
+#EXTINF:0,AUTO IPTV CA
+http://playlist.autoiptv.net/normal.php/.m3u?c=CA
+#EXTINF:0,AUTO IPTV SPORT
+http://playlist.autoiptv.net/sport.php/.m3u
+#EXTINF:0,AUTO IPTV MUSIC
+http://playlist.autoiptv.net/music.php/.m3u
+#EXTINF:0,IPTV UK 1
+http://freetvip.com/listm3u/UK_inglesh_inghelterra_1.m3u
+#EXTINF:0,IPTV UK 2
+http://freetvip.com/listm3u/UK_inglesh_inghelterra_2.m3u
+#EXTINF:0,IPTV UK-USA
+http://marcoasensiomadrid.website/11CHANNELS/daily/ukus.m3u
+#EXTINF:0,IPTV VOD
+http://marcoasensiomadrid.website/11CHANNELS/other/vod.m3u
+#EXTINF:0,Firestone TV UK
+http://vprxy.com/firstone-united-kingdom/.m3u
+#EXTINF:0,Firestone TV USA
+http://vprxy.com/firstone-united-states-28usa29/.m3u
+#EXTINF:0,Firestone TV Canada
+http://vprxy.com/firstone-canada/.m3u
+#EXTINF:0,Firestone TV Australia
+http://vprxy.com/firstone-australia/.m3u
+#EXTINF:0,Time iptv english
+http://vprxy.com/timeiptvenglish/.m3u
+#EXTINF:0,Live TV uk
+http://vprxy.com/livetv-uk/.m3u
+#EXTINF:0,Live TV usa
+http://vprxy.com/livetv-us/.m3u
+#EXTINF:0,Live TV India
+http://vprxy.com/livetv-in/.m3u
+#EXTINF:0,SKY SPORTS
+https://vprxy.com/crownlive/.m3u
+#EXTINF:0,TIME IPTV SPORTS
+http://vprxy.com/timeiptvsports/.m3u
+#EXTINF:0,SPORTS CHANNELS INT
+http://marcoasensiomadrid.website/11CHANNELS/sport/allsports24h.m3u
+#EXTINF:0,BEIN SPORTS SERVER 1
+http://marcoasensiomadrid.website/11CHANNELS/soccer/showsports.m3u
+#EXTINF:0,IPTV DAILY UK
+http://marcoasensiomadrid.website/11CHANNELS/daily/uk.m3u
+#EXTINF:0,Channel xxx TV
+http://pejaguide.com/iptv_m3u/xxx_tv.m3u
+#EXTINF:0,Adults Slynet
+http://iptv.slynet.tv/AdultsSlyNet.m3u
